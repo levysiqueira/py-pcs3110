@@ -1,8 +1,8 @@
 # Algoritmos de PCS3110 em Python
 
-## [PCS3110 - Algoritmos e Estruturas de Dados para a Engenharia Elétrica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=pcs3110)
+### EPUSP - [PCS3110 - Algoritmos e Estruturas de Dados para a Engenharia Elétrica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=pcs3110)
 
-## Escola Politécnica da USP
+#### Prof. Dr. Fábio Levy Siqueira
 
 Os seguintes algoritmos usados em PCS3110 foram implementados em Python:
 
@@ -40,6 +40,6 @@ Para rodar um teste específico (por exemplo, os de recursão):
 
     python -m unittest tests/test_recursao.py -v
 
-Caso haja algum problema de implementação, abra uma Issue no GitHub ou faça um Pull request. Qualquer coisa entre em [contato comigo](maito:fabio@levysiqueira.com.br).
+Caso haja algum problema de implementação, abra uma Issue no GitHub ou faça um Pull request. Qualquer coisa entre em contato comigo (fabio@levysiqueira.com.br).
 
 [![Licença](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
