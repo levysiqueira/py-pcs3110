@@ -30,6 +30,8 @@ Os seguintes algoritmos usados em PCS3110 foram implementados em Python:
     - [QuickSort](modulo3/ordenacao.py)
     - [HeapSort](modulo3/ordenacao.py)
 
+Os algoritmos usados em PCS3110 foram adaptados dos livros do [Cormen, Leiserson, Rivest e Stein (2011)](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) e do [Feofiloff (2009)](https://www.ime.usp.br/~pf/algoritmos-livro/) pelos professores de PCS3110: Anarosa Alves Franco Brandão, Anna Helena Reali Costa, Marcos Antonio Simplício Júnior, Romero Tori e por mim, Fábio Levy Siqueira. A implementação em Python foi feita por mim.
+
 Além das implementações são disponibilizados [alguns testes simples](https://github.com/levysiqueira/py-pcs3110/tree/master/tests) usando a biblioteca `unittest` do Python. Note que não são testes de unidade *ideais*; devem ser vistos apenas como exemplos de uso das classes.
 
 Para rodar todos os testes:
