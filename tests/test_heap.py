@@ -1,3 +1,7 @@
+"""
+Algoritmos de PCS3110 em Python
+Testes / Exemplos
+"""
 from modulo3.maxheap import MaxHeap
 import unittest
 

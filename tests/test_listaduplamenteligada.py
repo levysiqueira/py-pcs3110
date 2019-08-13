@@ -1,3 +1,7 @@
+"""
+Algoritmos de PCS3110 em Python
+Testes / Exemplos
+"""
 from modulo1.listaduplamenteligada import ListaDuplamenteLigada
 from modulo1.listaduplamenteligada import Elemento
 import unittest

@@ -1,3 +1,7 @@
+"""
+Algoritmos de PCS3110 em Python
+Testes / Exemplos
+"""
 from modulo2.grafo import GrafoDirigido
 from modulo2.grafo import GrafoNaoDirigido
 import unittest

@@ -1,3 +1,7 @@
+"""
+Algoritmos de PCS3110 em Python
+Módulo 3 - Análise de algoritmo e ordenação
+"""
 class MaxHeap:
     """ Implementação de um max-heap.
     """
