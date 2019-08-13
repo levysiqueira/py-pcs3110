@@ -4,7 +4,7 @@
 
 #### Prof. Dr. Fábio Levy Siqueira
 
-Os seguintes algoritmos usados em PCS3110 foram implementados em Python:
+Os seguintes algoritmos ensinados em PCS3110 foram implementados em Python e estão disponíveis neste repositório:
 
 - Módulo 1 - Estruturas de dados
     - [Recursão](modulo1/recursao.py)
