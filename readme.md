@@ -1,34 +1,36 @@
 # Algoritmos de PCS3110 em Python
 
-## Escola Politécnica da USP - [PCS3110 - Algoritmos e Estruturas de Dados para a Engenharia Elétrica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=pcs3110)
+## [PCS3110 - Algoritmos e Estruturas de Dados para a Engenharia Elétrica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=pcs3110)
+
+## Escola Politécnica da USP
 
 Os seguintes algoritmos usados em PCS3110 foram implementados em Python:
 
 - Módulo 1 - Estruturas de dados
-    - Recursão
-    - Lista ligada simples
-    - Lista duplamente ligada
-    - Pilha
-    - Fila
-    - Tabela Hash
+    - [Recursão](modulo1/recursao.py)
+    - [Lista ligada simples](modulo1/listaligada.py)
+    - [Lista duplamente ligada](modulo1/listaduplamenteligada.py)
+    - [Pilha](modulo1/pilha.py)
+    - [Fila](modulo1/fila.py)
+    - [Tabela Hash](modulo1/hash.py)
 - Módulo 2 - Grafos
-    - Grafo dirigo e não dirigido
-    - Busca em largura
-    - Busca em profundidade
-    - Ordenação topológica
-    - Árvore geradora mínima usando os algoritmos de Prim e Kruskal
-    - Caminhos mínimos usando o algoritmo de Dijkstra
-    - Árvore binária (altura, é ancestral, pré-ordem, pós-ordem e em ordem)
-    - ABB (adicionar, busca, menor, maior e sucessor)
+    - [Grafo dirigo e não dirigido](modulo2/grafo.py)
+    - [Busca em largura](modulo2/grafo.py)
+    - [Busca em profundidade](modulo2/grafo.py)
+    - [Ordenação topológica](modulo2/grafo.py)
+    - [Árvore geradora mínima usando os algoritmos de Prim e Kruskal](modulo2/grafo.py)
+    - [Caminhos mínimos usando o algoritmo de Dijkstra](modulo2/grafo.py)
+    - [Árvore binária (altura, é ancestral, pré-ordem, pós-ordem e em ordem)](modulo2/arvore.py)
+    - [ABB (adicionar, busca, menor, maior e sucessor)](modulo2/arvore.py)
 - Módulo 3 - Análise de algoritmo e ordenação
-    - max-heap (é max-heap, max heapify, extrair maior e inserir)
-    - InsertionSort
-    - SelectionSort
-    - MergeSort
-    - QuickSort
-    - HeapSort
+    - [Max-heap (é max-heap, max heapify, extrair maior e inserir)](modulo3/maxheap.py)
+    - [InsertionSort](modulo3/ordenacao.py)
+    - [SelectionSort](modulo3/ordenacao.py)
+    - [MergeSort](modulo3/ordenacao.py)
+    - [QuickSort](modulo3/ordenacao.py)
+    - [HeapSort](modulo3/ordenacao.py)
 
-Além das implementações são disponibilizados alguns testes simples usando a biblioteca `unittest` do Python. Note que não são testes de unidade *ideais*; devem ser vistos apenas como exemplos de uso das classes.
+Além das implementações são disponibilizados [alguns testes simples](https://github.com/levysiqueira/py-pcs3110/tree/master/tests) usando a biblioteca `unittest` do Python. Note que não são testes de unidade *ideais*; devem ser vistos apenas como exemplos de uso das classes.
 
 Para rodar todos os testes:
 
